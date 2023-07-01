@@ -1,0 +1,2 @@
+# tinymceWordPasteFilter
+Created with CodeSandbox
